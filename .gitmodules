@@ -1,0 +1,6 @@
+[submodule "Python"]
+	path = Python
+	url = git@github.com:denisrosset/yarara.git
+[submodule "Yarara/HD110315"]
+	path = Yarara/HD110315
+	url = git@gitlab.com:denis.rosset/hd110315.git
